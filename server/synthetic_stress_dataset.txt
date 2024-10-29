@@ -1,0 +1,1000 @@
+I feel calm and serene	0
+I'm feeling optimistic about the future	0
+I'm excited about the future	0
+I am enjoying my day	0
+I'm excited about the future	0
+I'm smiling and happy today	0
+I am calm and focused	0
+I'm feeling overwhelmed with all these deadlines	1
+I'm nervous about the interview	1
+I'm battling with constant fatigue	1
+I am Happy	0
+I'm joyful and carefree	0
+I'm peaceful and at ease	0
+I'm smiling and happy today	0
+Life is good and full of joy	0
+I am so stressed out about this project	1
+I'm relaxed after the yoga session	0
+I'm feeling blissful and happy	0
+I am panicking about the project	1
+I am Stressed	1
+I feel happy and relaxed	0
+I have too many things to handle at once	1
+I'm delighted with the results	0
+I'm stressed due to lack of sleep	1
+I'm basking in the sunshine	0
+I am Not Stressed	0
+I'm battling with constant fatigue	1
+I am calm and focused	0
+I'm content with my current situation	0
+I'm stressed due to lack of sleep	1
+I'm struggling to keep up with everything	1
+I'm basking in the sunshine	0
+I'm enjoying a nice cup of tea	0
+I'm enjoying quality time with family	0
+I have too many tasks to complete	1
+I am calm and focused	0
+I am Stressed	1
+I'm stressed about my finances	1
+Had a relaxing evening	0
+I'm basking in the sunshine	0
+I'm enjoying my hobbies	0
+I'm exhausted from all the work	1
+I feel calm and serene	0
+I'm enjoying quality time with family	0
+I'm exhausted from all the work	1
+I feel under immense pressure	1
+I'm relaxed after the yoga session	0
+Life is good and full of joy	0
+I feel happy and relaxed	0
+Everything is going smoothly today	0
+Had a relaxing evening	0
+I'm tense about the meeting	1
+I'm worried about my performance	1
+I am Not Stressed	0
+I'm relaxed after the yoga session	0
+Deadlines are making me uneasy	1
+I am calm and focused	0
+I am calm and focused	0
+This workload is too much	1
+I am enjoying my day	0
+Everything is going smoothly today	0
+I'm tense about the meeting	1
+This workload is too much	1
+I'm stressed about my finances	1
+I'm grateful for the support I receive	0
+I am depressed	1
+I feel happy and relaxed	0
+I am enjoying my day	0
+I'm feeling overwhelmed with all these deadlines	1
+I can't sleep because of stress	1
+I'm nervous about the interview	1
+I'm peaceful and at ease	0
+I'm struggling to keep up with everything	1
+I am enjoying my day	0
+I'm tense about the meeting	1
+Work is killing me right now	1
+I feel free of worries	0
+Today has been peaceful	0
+I feel calm and serene	0
+I'm feeling blissful and happy	0
+I'm content with my life	0
+I'm dealing with a lot of stress lately	1
+I'm dealing with a lot of stress lately	1
+I'm exhausted from all the work	1
+Had a relaxing evening	0
+Today has been peaceful	0
+I'm feeling optimistic about the future	0
+I feel free of worries	0
+I feel happy and relaxed	0
+I'm joyful and carefree	0
+I'm battling with constant fatigue	1
+This workload is too much	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm delighted with the results	0
+I'm smiling and happy today	0
+I'm worried about my performance	1
+I'm tense about the meeting	1
+I'm nervous about the interview	1
+I'm feeling overwhelmed with all these deadlines	1
+This workload is too much	1
+I am Happy	0
+I am calm and focused	0
+I am panicking about the project	1
+I'm celebrating my achievements	0
+I feel under immense pressure	1
+I'm content with my life	0
+I'm overwhelmed by responsibilities	1
+I can't handle the pressure	1
+I'm battling with constant fatigue	1
+I'm feeling blissful and happy	0
+I'm grateful for the support I receive	0
+I'm overwhelmed by responsibilities	1
+This workload is too much	1
+I'm overwhelmed by responsibilities	1
+Today has been peaceful	0
+I can't sleep because of stress	1
+Everything is going wrong	1
+I'm battling with constant fatigue	1
+I'm delighted with the results	0
+I'm worried about my performance	1
+I feel calm and serene	0
+I'm feeling optimistic about the future	0
+I'm battling with constant fatigue	1
+Had a relaxing evening	0
+Work is killing me right now	1
+I'm joyful and carefree	0
+I am panicking about the project	1
+I'm irritated by the constant noise	1
+I am Stressed	1
+I'm tense about the meeting	1
+I'm basking in the sunshine	0
+I am Not Stressed	0
+I am depressed	1
+I'm enjoying a nice cup of tea	0
+I am Not Stressed	0
+I'm feeling blissful and happy	0
+Work is killing me right now	1
+I have too many tasks to complete	1
+I'm joyful and carefree	0
+I have too many things to handle at once	1
+Work is killing me right now	1
+I can't sleep because of stress	1
+I'm overwhelmed by responsibilities	1
+I can't sleep because of stress	1
+I am panicking about the project	1
+Everything is going smoothly today	0
+I feel under immense pressure	1
+I'm stressed about my finances	1
+Today has been peaceful	0
+I'm stressed due to lack of sleep	1
+I am calm and focused	0
+Everything is going smoothly today	0
+I am Stressed	1
+I feel free of worries	0
+I am Sad	1
+I am Not Stressed	0
+I can't handle the pressure	1
+I have too many tasks to complete	1
+I can't sleep because of stress	1
+I'm enjoying a nice cup of tea	0
+I feel calm and serene	0
+I feel pressure building up every day	1
+I am so stressed out about this project	1
+I'm excited about the future	0
+I'm exhausted from all the work	1
+I'm happy with my progress	0
+I'm irritated by the constant noise	1
+I'm stressed about my finances	1
+I am Sad	1
+I'm stressed about my finances	1
+Today has been peaceful	0
+I'm content with my current situation	0
+Had a relaxing evening	0
+I'm basking in the sunshine	0
+Deadlines are making me uneasy	1
+Today has been peaceful	0
+I am panicking about the project	1
+I am Stressed	1
+This workload is too much	1
+I'm content with my life	0
+I am depressed	1
+Everything is going smoothly today	0
+I feel under immense pressure	1
+I'm grateful for the support I receive	0
+I'm content with my life	0
+I'm worried about my performance	1
+I'm peaceful and at ease	0
+I'm feeling overwhelmed with all these deadlines	1
+I am Happy	0
+I am enjoying my day	0
+I'm peaceful and at ease	0
+I feel happy and relaxed	0
+I am enjoying a beautiful day	0
+I'm content with my current situation	0
+I have too many tasks to complete	1
+I am Sad	1
+Work is killing me right now	1
+Life is good and full of joy	0
+I am so stressed out about this project	1
+I can't handle the pressure	1
+I'm content with my life	0
+I'm content with my life	0
+I'm grateful for the support I receive	0
+I can't sleep because of stress	1
+I'm enjoying a nice cup of tea	0
+I'm smiling and happy today	0
+I'm enjoying a nice cup of tea	0
+I'm enjoying my hobbies	0
+Had a relaxing evening	0
+I am so stressed out about this project	1
+I am depressed	1
+Life is good and full of joy	0
+Life is good and full of joy	0
+Had a relaxing evening	0
+I'm struggling to keep up with everything	1
+I'm enjoying my hobbies	0
+I can't sleep because of stress	1
+I am Stressed	1
+I'm relaxed after the yoga session	0
+I am Sad	1
+I can't handle the pressure	1
+Today has been peaceful	0
+Everything is going smoothly today	0
+I am Sad	1
+I'm tense about the meeting	1
+I am panicking about the project	1
+I am Stressed	1
+I'm smiling and happy today	0
+I feel free of worries	0
+I'm overwhelmed by responsibilities	1
+I'm content with my life	0
+I feel happy and relaxed	0
+This workload is too much	1
+I'm worried about my performance	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm smiling and happy today	0
+I am Stressed	1
+I'm enjoying my hobbies	0
+I am panicking about the project	1
+I'm struggling to keep up with everything	1
+I'm peaceful and at ease	0
+I feel under immense pressure	1
+Everything is going smoothly today	0
+I feel calm and serene	0
+I'm feeling overwhelmed with all these deadlines	1
+I'm delighted with the results	0
+I'm basking in the sunshine	0
+I'm tense about the meeting	1
+I'm dealing with a lot of stress lately	1
+I'm struggling to keep up with everything	1
+Everything is going wrong	1
+I'm anxious about the upcoming exam	1
+I'm delighted with the results	0
+Everything is going wrong	1
+I'm feeling optimistic about the future	0
+I'm frustrated with the delays	1
+I'm relaxed after the yoga session	0
+Work is killing me right now	1
+I'm delighted with the results	0
+I'm anxious about the upcoming exam	1
+I am calm and focused	0
+I'm worried about my performance	1
+I'm basking in the sunshine	0
+I am so stressed out about this project	1
+I'm excited about the future	0
+I'm exhausted from all the work	1
+I'm battling with constant fatigue	1
+I can't sleep because of stress	1
+I'm joyful and carefree	0
+I can't sleep because of stress	1
+I'm feeling blissful and happy	0
+I'm struggling to keep up with everything	1
+I'm exhausted from all the work	1
+I'm exhausted from all the work	1
+I am Stressed	1
+I am Not Stressed	0
+I'm peaceful and at ease	0
+I feel calm and serene	0
+Deadlines are making me uneasy	1
+I am panicking about the project	1
+I'm exhausted from all the work	1
+I'm tense about the meeting	1
+I'm happy with my progress	0
+Work is killing me right now	1
+I am panicking about the project	1
+I'm feeling blissful and happy	0
+I am Happy	0
+I'm enjoying my hobbies	0
+Everything is going smoothly today	0
+I'm worried about my performance	1
+I'm worried about my performance	1
+Life is good and full of joy	0
+I'm nervous about the interview	1
+I'm peaceful and at ease	0
+I'm worried about my performance	1
+I'm feeling blissful and happy	0
+I'm content with my life	0
+I can't handle the pressure	1
+I am Sad	1
+Life is good and full of joy	0
+I'm happy with my progress	0
+I'm excited about the future	0
+I am calm and focused	0
+I feel pressure building up every day	1
+I'm peaceful and at ease	0
+I'm stressed due to lack of sleep	1
+I feel happy and relaxed	0
+I'm overwhelmed by responsibilities	1
+I'm excited about the future	0
+I'm nervous about the interview	1
+I am Not Stressed	0
+I am Stressed	1
+I'm tense about the meeting	1
+Everything is going smoothly today	0
+I'm struggling to keep up with everything	1
+I am enjoying a beautiful day	0
+I can't sleep because of stress	1
+I'm grateful for the support I receive	0
+I'm feeling optimistic about the future	0
+I am panicking about the project	1
+I'm content with my current situation	0
+This workload is too much	1
+I'm nervous about the interview	1
+I'm relaxed after the yoga session	0
+Today has been peaceful	0
+I feel calm and serene	0
+I'm battling with constant fatigue	1
+I am Not Stressed	0
+Today has been peaceful	0
+I'm tense about the meeting	1
+I feel happy and relaxed	0
+I am enjoying my day	0
+I am depressed	1
+Everything is going smoothly today	0
+I'm stressed about my finances	1
+I'm enjoying a nice cup of tea	0
+I have too many tasks to complete	1
+I'm delighted with the results	0
+I am Stressed	1
+I'm basking in the sunshine	0
+I feel happy and relaxed	0
+I'm struggling to keep up with everything	1
+I'm delighted with the results	0
+I am enjoying a beautiful day	0
+I'm battling with constant fatigue	1
+I feel calm and serene	0
+I feel free of worries	0
+I feel pressure building up every day	1
+This workload is too much	1
+I am Not Stressed	0
+I am enjoying my day	0
+I'm celebrating my achievements	0
+I'm irritated by the constant noise	1
+I'm worried about my performance	1
+I'm content with my current situation	0
+I'm celebrating my achievements	0
+I am Happy	0
+I'm basking in the sunshine	0
+I'm irritated by the constant noise	1
+I feel pressure building up every day	1
+I'm enjoying my hobbies	0
+I'm happy with my progress	0
+I have too many tasks to complete	1
+I'm overwhelmed by responsibilities	1
+I have too many things to handle at once	1
+I'm enjoying quality time with family	0
+I'm excited about the future	0
+I'm enjoying my hobbies	0
+I am enjoying a beautiful day	0
+I'm worried about my performance	1
+I feel under immense pressure	1
+I'm enjoying quality time with family	0
+I'm feeling overwhelmed with all these deadlines	1
+I am Sad	1
+I'm excited about the future	0
+I'm basking in the sunshine	0
+I can't sleep because of stress	1
+Had a relaxing evening	0
+I'm irritated by the constant noise	1
+Everything is going smoothly today	0
+I'm content with my current situation	0
+I can't sleep because of stress	1
+I can't handle the pressure	1
+I'm happy with my progress	0
+I'm tense about the meeting	1
+I'm battling with constant fatigue	1
+I'm relaxed after the yoga session	0
+I'm feeling blissful and happy	0
+I'm grateful for the support I receive	0
+I'm irritated by the constant noise	1
+I am Sad	1
+I'm happy with my progress	0
+I am depressed	1
+Work is killing me right now	1
+I'm joyful and carefree	0
+I'm feeling blissful and happy	0
+I can't sleep because of stress	1
+I can't sleep because of stress	1
+This workload is too much	1
+I'm stressed about my finances	1
+I'm nervous about the interview	1
+I am Sad	1
+I'm grateful for the support I receive	0
+I'm smiling and happy today	0
+I can't sleep because of stress	1
+I am so stressed out about this project	1
+I'm relaxed after the yoga session	0
+I'm excited about the future	0
+I'm basking in the sunshine	0
+Work is killing me right now	1
+I'm frustrated with the delays	1
+Had a relaxing evening	0
+I'm enjoying quality time with family	0
+I'm enjoying quality time with family	0
+I'm nervous about the interview	1
+I'm enjoying my hobbies	0
+I'm battling with constant fatigue	1
+I am Not Stressed	0
+I'm stressed due to lack of sleep	1
+I feel pressure building up every day	1
+I am Stressed	1
+I am so stressed out about this project	1
+I'm irritated by the constant noise	1
+I feel free of worries	0
+I'm overwhelmed by responsibilities	1
+I am Not Stressed	0
+Work is killing me right now	1
+I'm struggling to keep up with everything	1
+I'm stressed about my finances	1
+I'm nervous about the interview	1
+Everything is going smoothly today	0
+I'm basking in the sunshine	0
+Everything is going wrong	1
+I'm tense about the meeting	1
+I'm stressed about my finances	1
+I can't sleep because of stress	1
+Had a relaxing evening	0
+I'm struggling to keep up with everything	1
+I feel under immense pressure	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm struggling to keep up with everything	1
+I'm frustrated with the delays	1
+I'm exhausted from all the work	1
+I'm relaxed after the yoga session	0
+I'm excited about the future	0
+I'm overwhelmed by responsibilities	1
+I'm exhausted from all the work	1
+I'm peaceful and at ease	0
+I'm joyful and carefree	0
+I'm tense about the meeting	1
+I'm exhausted from all the work	1
+Work is killing me right now	1
+I can't handle the pressure	1
+I can't handle the pressure	1
+Deadlines are making me uneasy	1
+I am calm and focused	0
+I am Happy	0
+I am panicking about the project	1
+I am enjoying a beautiful day	0
+I feel free of worries	0
+I'm content with my current situation	0
+I'm enjoying my hobbies	0
+I'm anxious about the upcoming exam	1
+I am Stressed	1
+I'm smiling and happy today	0
+I am Stressed	1
+I'm smiling and happy today	0
+I'm exhausted from all the work	1
+I'm frustrated with the delays	1
+I feel free of worries	0
+I'm joyful and carefree	0
+I'm feeling blissful and happy	0
+I am Not Stressed	0
+Deadlines are making me uneasy	1
+I'm worried about my performance	1
+I'm basking in the sunshine	0
+Everything is going smoothly today	0
+I am Not Stressed	0
+I am Happy	0
+Deadlines are making me uneasy	1
+I'm delighted with the results	0
+I'm delighted with the results	0
+I am depressed	1
+I'm feeling blissful and happy	0
+I can't sleep because of stress	1
+I can't sleep because of stress	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm content with my life	0
+I feel free of worries	0
+Everything is going smoothly today	0
+I'm joyful and carefree	0
+I'm feeling blissful and happy	0
+I'm happy with my progress	0
+I can't handle the pressure	1
+I am Not Stressed	0
+I'm struggling to keep up with everything	1
+I'm delighted with the results	0
+I feel pressure building up every day	1
+I feel under immense pressure	1
+Deadlines are making me uneasy	1
+I feel free of worries	0
+I can't sleep because of stress	1
+I'm relaxed after the yoga session	0
+I'm overwhelmed by responsibilities	1
+I am Happy	0
+I feel under immense pressure	1
+I'm struggling to keep up with everything	1
+This workload is too much	1
+I feel calm and serene	0
+I'm feeling overwhelmed with all these deadlines	1
+I'm worried about my performance	1
+I'm battling with constant fatigue	1
+Everything is going smoothly today	0
+I'm struggling to keep up with everything	1
+I'm celebrating my achievements	0
+I'm content with my current situation	0
+I'm overwhelmed by responsibilities	1
+I am calm and focused	0
+I am Happy	0
+I'm overwhelmed by responsibilities	1
+I'm overwhelmed by responsibilities	1
+I am Not Stressed	0
+I'm exhausted from all the work	1
+I'm dealing with a lot of stress lately	1
+I'm peaceful and at ease	0
+I'm stressed due to lack of sleep	1
+I'm joyful and carefree	0
+I feel pressure building up every day	1
+Work is killing me right now	1
+I have too many tasks to complete	1
+I'm stressed due to lack of sleep	1
+I feel calm and serene	0
+I'm stressed due to lack of sleep	1
+I'm enjoying a nice cup of tea	0
+I'm frustrated with the delays	1
+I'm joyful and carefree	0
+I'm feeling overwhelmed with all these deadlines	1
+This workload is too much	1
+I'm worried about my performance	1
+I am so stressed out about this project	1
+I am enjoying my day	0
+I am depressed	1
+I'm anxious about the upcoming exam	1
+I'm stressed due to lack of sleep	1
+I'm excited about the future	0
+I'm overwhelmed by responsibilities	1
+I feel free of worries	0
+Had a relaxing evening	0
+I'm delighted with the results	0
+I'm enjoying a nice cup of tea	0
+I am panicking about the project	1
+I'm stressed due to lack of sleep	1
+I am enjoying my day	0
+I am calm and focused	0
+I have too many things to handle at once	1
+I am calm and focused	0
+I am so stressed out about this project	1
+I feel free of worries	0
+I'm feeling blissful and happy	0
+I'm celebrating my achievements	0
+I am so stressed out about this project	1
+I'm overwhelmed by responsibilities	1
+I'm tense about the meeting	1
+I am depressed	1
+I have too many things to handle at once	1
+I'm content with my life	0
+I'm feeling blissful and happy	0
+I can't sleep because of stress	1
+I'm delighted with the results	0
+I can't sleep because of stress	1
+I'm frustrated with the delays	1
+I feel calm and serene	0
+I'm enjoying my hobbies	0
+I feel under immense pressure	1
+I'm grateful for the support I receive	0
+I'm feeling overwhelmed with all these deadlines	1
+I am Sad	1
+I'm battling with constant fatigue	1
+I'm content with my life	0
+I'm content with my current situation	0
+I am enjoying a beautiful day	0
+I'm smiling and happy today	0
+Deadlines are making me uneasy	1
+This workload is too much	1
+I am Stressed	1
+I'm enjoying a nice cup of tea	0
+I'm worried about my performance	1
+I have too many things to handle at once	1
+I can't sleep because of stress	1
+I'm content with my current situation	0
+Work is killing me right now	1
+I'm peaceful and at ease	0
+I'm battling with constant fatigue	1
+I am Not Stressed	0
+I'm content with my life	0
+I am panicking about the project	1
+I'm stressed about my finances	1
+I can't handle the pressure	1
+I have too many tasks to complete	1
+Today has been peaceful	0
+I am Happy	0
+I'm feeling overwhelmed with all these deadlines	1
+I feel pressure building up every day	1
+I'm feeling blissful and happy	0
+I'm stressed about my finances	1
+This workload is too much	1
+Everything is going smoothly today	0
+I'm celebrating my achievements	0
+I'm basking in the sunshine	0
+I feel calm and serene	0
+Today has been peaceful	0
+I'm struggling to keep up with everything	1
+I'm excited about the future	0
+I'm frustrated with the delays	1
+I'm anxious about the upcoming exam	1
+I am Stressed	1
+I am panicking about the project	1
+I'm worried about my performance	1
+I'm grateful for the support I receive	0
+I'm basking in the sunshine	0
+I'm basking in the sunshine	0
+I'm stressed about my finances	1
+I have too many things to handle at once	1
+I feel happy and relaxed	0
+Deadlines are making me uneasy	1
+Had a relaxing evening	0
+I'm content with my current situation	0
+I am calm and focused	0
+I am panicking about the project	1
+I am so stressed out about this project	1
+I can't handle the pressure	1
+I am enjoying my day	0
+I am panicking about the project	1
+I feel free of worries	0
+I feel calm and serene	0
+Today has been peaceful	0
+I have too many things to handle at once	1
+I feel free of worries	0
+I'm tense about the meeting	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm enjoying a nice cup of tea	0
+This workload is too much	1
+I'm nervous about the interview	1
+This workload is too much	1
+Work is killing me right now	1
+I'm exhausted from all the work	1
+I feel calm and serene	0
+This workload is too much	1
+I'm stressed due to lack of sleep	1
+Had a relaxing evening	0
+I feel happy and relaxed	0
+I'm content with my current situation	0
+I'm relaxed after the yoga session	0
+I'm grateful for the support I receive	0
+I feel pressure building up every day	1
+Everything is going smoothly today	0
+Life is good and full of joy	0
+Everything is going wrong	1
+I have too many tasks to complete	1
+I'm overwhelmed by responsibilities	1
+I'm battling with constant fatigue	1
+I'm basking in the sunshine	0
+I'm celebrating my achievements	0
+I am panicking about the project	1
+I'm struggling to keep up with everything	1
+Deadlines are making me uneasy	1
+Everything is going smoothly today	0
+I feel under immense pressure	1
+I'm feeling blissful and happy	0
+I can't sleep because of stress	1
+I'm enjoying quality time with family	0
+I'm basking in the sunshine	0
+I feel under immense pressure	1
+I'm smiling and happy today	0
+I'm feeling blissful and happy	0
+I'm celebrating my achievements	0
+I'm content with my current situation	0
+I have too many tasks to complete	1
+I am enjoying my day	0
+I am enjoying my day	0
+I am Not Stressed	0
+I'm stressed due to lack of sleep	1
+I'm peaceful and at ease	0
+Everything is going wrong	1
+I am calm and focused	0
+I am so stressed out about this project	1
+I feel pressure building up every day	1
+I feel pressure building up every day	1
+Everything is going wrong	1
+I'm tense about the meeting	1
+I'm dealing with a lot of stress lately	1
+I'm battling with constant fatigue	1
+Everything is going smoothly today	0
+I'm excited about the future	0
+I feel under immense pressure	1
+Everything is going smoothly today	0
+Today has been peaceful	0
+I am Not Stressed	0
+I'm worried about my performance	1
+I'm irritated by the constant noise	1
+I am enjoying my day	0
+I am enjoying my day	0
+I have too many things to handle at once	1
+Work is killing me right now	1
+I'm content with my life	0
+I'm delighted with the results	0
+I'm irritated by the constant noise	1
+I'm dealing with a lot of stress lately	1
+I'm battling with constant fatigue	1
+I have too many tasks to complete	1
+I can't sleep because of stress	1
+I am so stressed out about this project	1
+I am enjoying a beautiful day	0
+I am calm and focused	0
+I'm content with my current situation	0
+Work is killing me right now	1
+I'm enjoying my hobbies	0
+I'm excited about the future	0
+I'm smiling and happy today	0
+I'm smiling and happy today	0
+I'm nervous about the interview	1
+I feel pressure building up every day	1
+I'm worried about my performance	1
+I am so stressed out about this project	1
+Life is good and full of joy	0
+I'm enjoying my hobbies	0
+I have too many things to handle at once	1
+I'm stressed about my finances	1
+I'm tense about the meeting	1
+I can't handle the pressure	1
+I'm grateful for the support I receive	0
+I'm dealing with a lot of stress lately	1
+I'm smiling and happy today	0
+I'm grateful for the support I receive	0
+I have too many things to handle at once	1
+I'm content with my current situation	0
+I'm smiling and happy today	0
+I'm exhausted from all the work	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm content with my current situation	0
+I'm joyful and carefree	0
+I'm overwhelmed by responsibilities	1
+I'm stressed about my finances	1
+I'm celebrating my achievements	0
+I am Not Stressed	0
+I'm delighted with the results	0
+I'm content with my life	0
+I am Stressed	1
+I feel happy and relaxed	0
+I'm smiling and happy today	0
+I'm nervous about the interview	1
+I'm feeling overwhelmed with all these deadlines	1
+I am calm and focused	0
+I'm celebrating my achievements	0
+I am enjoying my day	0
+I am depressed	1
+I'm overwhelmed by responsibilities	1
+I'm enjoying quality time with family	0
+Everything is going smoothly today	0
+I have too many things to handle at once	1
+I have too many things to handle at once	1
+Everything is going wrong	1
+I'm irritated by the constant noise	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm tense about the meeting	1
+I'm frustrated with the delays	1
+I'm anxious about the upcoming exam	1
+I can't handle the pressure	1
+I'm excited about the future	0
+I'm dealing with a lot of stress lately	1
+I feel happy and relaxed	0
+I can't handle the pressure	1
+I'm stressed due to lack of sleep	1
+I'm struggling to keep up with everything	1
+I am enjoying my day	0
+I feel happy and relaxed	0
+I am depressed	1
+I'm content with my life	0
+I feel happy and relaxed	0
+I'm stressed about my finances	1
+I am Sad	1
+I feel happy and relaxed	0
+I'm relaxed after the yoga session	0
+I'm overwhelmed by responsibilities	1
+I'm enjoying my hobbies	0
+I'm basking in the sunshine	0
+Had a relaxing evening	0
+I am panicking about the project	1
+I'm smiling and happy today	0
+I am Happy	0
+I'm smiling and happy today	0
+I'm excited about the future	0
+I am Not Stressed	0
+Everything is going smoothly today	0
+I'm joyful and carefree	0
+I feel free of worries	0
+I'm overwhelmed by responsibilities	1
+I am enjoying my day	0
+Deadlines are making me uneasy	1
+I'm irritated by the constant noise	1
+I'm anxious about the upcoming exam	1
+I am Not Stressed	0
+I am so stressed out about this project	1
+I am Stressed	1
+I'm anxious about the upcoming exam	1
+I feel calm and serene	0
+I'm content with my current situation	0
+I'm battling with constant fatigue	1
+I am Stressed	1
+I'm struggling to keep up with everything	1
+I'm enjoying my hobbies	0
+I am enjoying my day	0
+Deadlines are making me uneasy	1
+I can't handle the pressure	1
+I am calm and focused	0
+I feel happy and relaxed	0
+I'm frustrated with the delays	1
+I'm exhausted from all the work	1
+Everything is going smoothly today	0
+I'm content with my life	0
+I'm frustrated with the delays	1
+I'm joyful and carefree	0
+I am Stressed	1
+I am enjoying a beautiful day	0
+I can't handle the pressure	1
+I'm excited about the future	0
+I'm enjoying quality time with family	0
+I am Stressed	1
+I have too many tasks to complete	1
+I'm delighted with the results	0
+Life is good and full of joy	0
+I'm irritated by the constant noise	1
+I'm grateful for the support I receive	0
+I'm battling with constant fatigue	1
+I'm content with my current situation	0
+I'm irritated by the constant noise	1
+I'm dealing with a lot of stress lately	1
+I can't sleep because of stress	1
+Today has been peaceful	0
+I'm tense about the meeting	1
+I feel under immense pressure	1
+I'm feeling blissful and happy	0
+I am depressed	1
+I'm peaceful and at ease	0
+I'm feeling overwhelmed with all these deadlines	1
+I'm delighted with the results	0
+I have too many things to handle at once	1
+I am Happy	0
+I am Not Stressed	0
+I feel pressure building up every day	1
+I am calm and focused	0
+I'm battling with constant fatigue	1
+Life is good and full of joy	0
+I'm nervous about the interview	1
+I'm stressed about my finances	1
+I'm smiling and happy today	0
+I'm peaceful and at ease	0
+I'm feeling blissful and happy	0
+I'm basking in the sunshine	0
+I'm enjoying a nice cup of tea	0
+I am Not Stressed	0
+I am panicking about the project	1
+I'm enjoying a nice cup of tea	0
+I'm basking in the sunshine	0
+I feel free of worries	0
+I'm worried about my performance	1
+I'm stressed about my finances	1
+I'm happy with my progress	0
+I am Sad	1
+I have too many tasks to complete	1
+I feel calm and serene	0
+I am Happy	0
+I'm exhausted from all the work	1
+I'm happy with my progress	0
+This workload is too much	1
+Everything is going smoothly today	0
+I'm grateful for the support I receive	0
+I'm content with my life	0
+I'm peaceful and at ease	0
+Deadlines are making me uneasy	1
+I am Stressed	1
+Life is good and full of joy	0
+I'm happy with my progress	0
+I'm irritated by the constant noise	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm enjoying my hobbies	0
+I'm feeling overwhelmed with all these deadlines	1
+Everything is going smoothly today	0
+I have too many tasks to complete	1
+I'm anxious about the upcoming exam	1
+I'm stressed about my finances	1
+I'm content with my current situation	0
+I'm enjoying my hobbies	0
+I'm battling with constant fatigue	1
+I'm anxious about the upcoming exam	1
+I'm feeling overwhelmed with all these deadlines	1
+I'm content with my current situation	0
+I am panicking about the project	1
+I'm relaxed after the yoga session	0
+I'm grateful for the support I receive	0
+I have too many tasks to complete	1
+I feel under immense pressure	1
+I can't handle the pressure	1
+I'm enjoying a nice cup of tea	0
+I am Happy	0
+I'm enjoying a nice cup of tea	0
+I'm overwhelmed by responsibilities	1
+I am Happy	0
+Had a relaxing evening	0
+I'm tense about the meeting	1
+I am Sad	1
+I'm content with my current situation	0
+I am Happy	0
+I'm relaxed after the yoga session	0
+I'm peaceful and at ease	0
+I'm peaceful and at ease	0
+I'm feeling overwhelmed with all these deadlines	1
+Life is good and full of joy	0
+I'm irritated by the constant noise	1
+I can't sleep because of stress	1
+I'm basking in the sunshine	0
+I feel pressure building up every day	1
+I'm delighted with the results	0
+I'm frustrated with the delays	1
+Had a relaxing evening	0
+I have too many tasks to complete	1
+I am Not Stressed	0
+I'm joyful and carefree	0
+I'm grateful for the support I receive	0
+I feel calm and serene	0
+I can't handle the pressure	1
+I am Happy	0
+I'm feeling blissful and happy	0
+I have too many things to handle at once	1
+I can't sleep because of stress	1
+I'm struggling to keep up with everything	1
+I'm content with my life	0
+I'm worried about my performance	1
+I'm feeling blissful and happy	0
+I'm enjoying quality time with family	0
+I'm smiling and happy today	0
+I am so stressed out about this project	1
+I'm grateful for the support I receive	0
+I am so stressed out about this project	1
+Everything is going wrong	1
+I'm struggling to keep up with everything	1
+I'm overwhelmed by responsibilities	1
+I am panicking about the project	1
+I'm feeling blissful and happy	0
+I'm feeling optimistic about the future	0
+I'm excited about the future	0
+Life is good and full of joy	0
+I'm dealing with a lot of stress lately	1
+Had a relaxing evening	0
+I am depressed	1
+I feel free of worries	0
+I am panicking about the project	1
+I'm content with my current situation	0
+Work is killing me right now	1
+I am Sad	1
+I feel calm and serene	0
+I am calm and focused	0
+I feel pressure building up every day	1
+Deadlines are making me uneasy	1
+I'm smiling and happy today	0
+I'm joyful and carefree	0
+I'm excited about the future	0
+I am Sad	1
+I am so stressed out about this project	1
+I'm relaxed after the yoga session	0
+I can't handle the pressure	1
+I am Not Stressed	0
+I'm exhausted from all the work	1
+I am Not Stressed	0
+I'm enjoying my hobbies	0
+I'm stressed due to lack of sleep	1
+I'm nervous about the interview	1
+I am Not Stressed	0
+I'm enjoying quality time with family	0
+Deadlines are making me uneasy	1
+I'm relaxed after the yoga session	0
+Today has been peaceful	0
+I'm enjoying quality time with family	0
+I'm content with my life	0
+I am Stressed	1
+I am Happy	0
+I'm stressed about my finances	1
+I'm battling with constant fatigue	1
+I'm joyful and carefree	0
+I have too many tasks to complete	1
+Deadlines are making me uneasy	1
+I'm frustrated with the delays	1
+Work is killing me right now	1
+I am calm and focused	0
+I'm excited about the future	0
+Today has been peaceful	0
+I am enjoying my day	0
+I am panicking about the project	1
+I'm content with my life	0
+I'm relaxed after the yoga session	0

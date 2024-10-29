@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@100..900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.noto-sans-symbols-<uniquifier> {
+  font-family: "Noto Sans Symbols", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
